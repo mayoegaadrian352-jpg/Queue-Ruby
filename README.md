@@ -16,7 +16,7 @@ Ruby es un lenguaje de programacion de codigo abierto enfocado en el padarigma d
 
 ## Programacion orientada a objetos
 
-Es un paradima de la programacion que estructura el software en piezas facilmente reutilizables conocidas como objetos, y plantillas llamadas clases. Permite organizar codigo complejo siguiendo sus pilares de encapsulacion, abstraccion, herencia y polimorfismo.
+Es un paradigma de la programacion que estructura el software en piezas facilmente reutilizables conocidas como objetos, y plantillas llamadas clases. Permite organizar codigo complejo siguiendo sus pilares de encapsulacion, abstraccion, herencia y polimorfismo.
 
 ## Instalacion
 ### Requerimientos de software
