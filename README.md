@@ -7,8 +7,7 @@ Este proyecto implementa la estructura de datos cola (queue), la cual consiste e
 2) Clase Queue.rb : Cola con los metodos
    `push(item)` `pull()` `peek()` `isEmpty()`
 3) Clase de pruebas Runner.rb : clase para comprobar el funcionamiento de los metodos de Queue.rb
-4) Gemfile (archivo con las dependencias necesarias para un proyecto)
-5) Gemfile.lock (generado automaticamente para fijar las versiones exactas instaladas por bundler)
+
 
 ## Ruby
 
