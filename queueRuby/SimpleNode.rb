@@ -1,6 +1,6 @@
 class SimpleNode
 
-    def initialize(vallue)
+    def initialize(vallue) #attr_accesor :name: creates both a getter (name) and a setter(name=) method for the @name instance variable.
 
       @value = vallue
       @next = nil
